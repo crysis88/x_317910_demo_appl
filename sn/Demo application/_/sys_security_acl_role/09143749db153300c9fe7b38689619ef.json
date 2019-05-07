@@ -1,0 +1,17 @@
+{
+  "sys_class_name": "sys_security_acl_role",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-05-07 14:26:06",
+  "sys_id": "09143749db153300c9fe7b38689619ef",
+  "sys_mod_count": 0,
+  "sys_name": "x_317910_demo_appl_demo_application_table.x_317910_demo_appl.user",
+  "sys_package": "74143f09db153300c9fe7b38689619a6",
+  "sys_policy": "",
+  "sys_scope": "74143f09db153300c9fe7b38689619a6",
+  "sys_security_acl": "cd143749db153300c9fe7b38689619ec",
+  "sys_update_name": "sys_security_acl_role_09143749db153300c9fe7b38689619ef",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-05-07 14:26:06",
+  "sys_user_role": "b014b349db153300c9fe7b3868961925",
+  "transaction_id": ""
+}

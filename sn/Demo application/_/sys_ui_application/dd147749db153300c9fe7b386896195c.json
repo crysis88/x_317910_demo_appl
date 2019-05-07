@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "hint": "",
+  "name": "Demo application",
+  "order": "",
+  "roles": "x_317910_demo_appl.user",
+  "sys_class_name": "sys_ui_application",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-05-07 14:26:07",
+  "sys_domain": "global",
+  "sys_domain_path": "/",
+  "sys_id": "dd147749db153300c9fe7b386896195c",
+  "sys_mod_count": 0,
+  "sys_name": "Demo application",
+  "sys_overrides": "",
+  "sys_package": "74143f09db153300c9fe7b38689619a6",
+  "sys_policy": "",
+  "sys_scope": "74143f09db153300c9fe7b38689619a6",
+  "sys_update_name": "sys_ui_application_dd147749db153300c9fe7b386896195c",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-05-07 14:26:07"
+}
